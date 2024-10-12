@@ -1,2 +1,3 @@
 # hello-world
 Comienzos de GitHub
+En esta ocasión comenzaré a usar GitHub para subir todos mis apuntes de estudios a GitHub...
